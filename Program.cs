@@ -7,7 +7,7 @@ namespace programa
         {
        int altura, actual, esp, hash;
 
-       Console.WriteLine("programadores: MENDOZA MERCADO CRISTINA CECILIA Y DELGADO VALENCIA BLANCA GUADALUPE");
+       Console.WriteLine("programadores: Elioth Marrujo de la Vega y Alejandra Lizette Gómez Tamayo");
        Console.WriteLine("dibujar piramide");
        Console.WriteLine("ingresa la altura de la piramide no mayor de 23 ni numero negativo");
        altura = Convert.ToInt32(Console.ReadLine());
